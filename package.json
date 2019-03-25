@@ -1,0 +1,18 @@
+{
+  "name": "analysistext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "file-type": "^10.9.0",
+    "pdfreader": "^1.0.0",
+    "q": "^1.5.1",
+    "textract": "^2.4.0",
+    "wink-pos-tagger": "^2.2.0"
+  }
+}
